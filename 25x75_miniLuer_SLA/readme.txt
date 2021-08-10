@@ -1,0 +1,1 @@
+The files here follow 25 mm x 75 mm (microscope slide) format and use mini Luer ports (OD = 2 mm). Best used with 3 mm OD (outer diameter), 1 mm ID (inner diameter) silicone tubing. To seal the chip you must use an adhesive foil (e.g. Greiner EASYseal™ sealing film). 
